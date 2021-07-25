@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexiaioana
+- 👀 I’m interested in cs
+- 🌱 I’m currently learning linux
+- 💞️ I’m looking to collaborate on nothing
